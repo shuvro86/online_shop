@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>My Shop</title>
+        <title>Welcome to My Shop</title>
     </head>
 
     <body>
