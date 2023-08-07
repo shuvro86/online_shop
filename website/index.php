@@ -4,7 +4,7 @@
     </head>
 
     <body>
-        <h1>Welcome to my shop</h1>
+        <h1>Welcome to my ecommerce shop</h1>
         <ul>
             <?php
 
